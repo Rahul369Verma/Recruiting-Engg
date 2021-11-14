@@ -30,7 +30,7 @@ class App extends React.Component {
               aria-current="page"
               class="header__content__logo-link w-nav-brand w--current"
             ><img
-                src="http://www.clipartbest.com/cliparts/eiM/yxb/eiMyxbG6T.png"
+                src="https://www.logolynx.com/images/logolynx/21/214fba9d9e8566bf92d15c66bf919d16.png"
                 width="60"
                 alt=""
                 class="logo__default"
@@ -828,7 +828,7 @@ class App extends React.Component {
             <div class="footer__content__wrap">
               <div class="footer__content__navigation w-container">
                 <img
-                  src="http://www.clipartbest.com/cliparts/eiM/yxb/eiMyxbG6T.png"
+                  src="https://www.logolynx.com/images/logolynx/21/214fba9d9e8566bf92d15c66bf919d16.png"
                   width="90"
                   alt=""
                   class="footer__content__logo"
