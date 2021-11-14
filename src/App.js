@@ -17,10 +17,10 @@ class App extends React.Component {
           data-doc-height="1"
         >
           <div class="header__announcement-box">
-            🎉 Dover has raised a $20M Series A.
+            <span role="img" aria-label="no">🎉</span> Dover has raised a $20M Series A.
             <a
               href="https://blog.dover.io/announcing-dover-20m-series-a/"
-              target="_blank"
+              target="_blank" rel="noopener noreferrer"
             >Read more here!</a
             >
           </div>
@@ -65,7 +65,7 @@ class App extends React.Component {
                     >Diversity Audit</a
                     ><a
                       href="https://onesoftlanding.com"
-                      target="_blank"
+                      target="_blank" rel="noopener noreferrer"
                       class="menu__dropdown_link w-dropdown-link"
                     >One Soft Landing</a
                     ><a
@@ -86,13 +86,13 @@ class App extends React.Component {
                 <a href="/careers" class="menu__link w-nav-link">Careers</a
                 ><a
                   href="http://blog.dover.io"
-                  target="_blank"
+                  target="_blank" rel="noopener noreferrer"
                   class="menu__link w-nav-link"
                 >Blog</a
                 ><a href="/team" class="menu__link w-nav-link">About</a
                 ><a
                   href="https://app.dover.io"
-                  target="_blank"
+                  target="_blank" rel="noopener noreferrer"
                   class="menu__link w-nav-link"
                 >Log in</a
                 >
@@ -661,7 +661,7 @@ class App extends React.Component {
             <div class="w-row">
               <div class="column-21 w-col w-col-1 w-col-small-small-stack"></div>
               <div class="w-col w-col-5 w-col-small-small-stack">
-                <ul role="list" class="detail-list">
+                <ul class="detail-list">
                   <li class="detail-list-item dover-benefit-slack">
                     Dedicated support over Slack
                   </li>
@@ -674,7 +674,7 @@ class App extends React.Component {
                 </ul>
               </div>
               <div class="w-col w-col-5 w-col-small-small-stack">
-                <ul role="list" class="detail-list">
+                <ul class="detail-list">
                   <li class="detail-list-item dover-benefit-scheduling">
                     Scheduling management
                   </li>
@@ -697,13 +697,13 @@ class App extends React.Component {
             <h2 class="press__heading">Dover in the News</h2>
             <p class="press__details">
               For press inquiries, please reach out at
-              <a href="#" class="press__link--email">hello@dover.com</a>
+              <a href="#showall=true" class="press__link--email">hello@dover.com</a>
             </p>
             <div class="press__container__columns w-row">
               <div class="press__container__column w-col w-col-4 w-col-stack">
                 <a
                   href="https://elpha.com/posts/32e6589k/office-hours-i-m-the-co-founder-and-cto-of-dover-a-tiger-global-founders-fund-and-yc-backed-recruiting-orchestration-company?v1=r03"
-                  target="_blank"
+                  target="_blank" rel="noopener noreferrer"
                   class="press__container__link-block w-inline-block"
                 ><img
                     src="https://assets.website-files.com/604b1712d16406970c150253/610b4ba5a1ba2e8cd8fb1ce1_elpha.jpeg"
@@ -731,7 +731,7 @@ class App extends React.Component {
                 <a
                   data-w-id="5c6f1d48-c4e2-83fc-b649-334eb8dd76fa"
                   href="https://techcrunch.com/2021/07/19/dover-raises-20m-to-bring-the-concept-of-orchestration-to-recruitment/"
-                  target="_blank"
+                  target="_blank" rel="noopener noreferrer"
                   class="press__container__link-block w-inline-block"
                 ><img
                     src="https://assets.website-files.com/604b1712d16406970c150253/610b4b304f911b40f2ef7ddf_techcrunch.png"
@@ -757,7 +757,7 @@ class App extends React.Component {
               <div class="press__container__column w-col w-col-4 w-col-stack">
                 <a
                   href="https://www.forbes.com/sites/anniebrown/2021/06/02/automation-and-the-future-of-workhow-engineered-systems-are-improving-the-workplace/?sh=43a0b0ce7372"
-                  target="_blank"
+                  target="_blank" rel="noopener noreferrer"
                   class="press__container__link-block w-inline-block"
                 ><img
                     src="https://assets.website-files.com/604b1712d16406970c150253/610b4c2b87ec863392887d0c_forbes.png"
@@ -784,7 +784,7 @@ class App extends React.Component {
             </div>
             <a
               href="https://www.ycombinator.com/companies/women-founders"
-              target="_blank"
+              target="_blank" rel="noopener noreferrer"
               class="
             press__container__link-block press__container__link-block--bottom
             w-inline-block
