@@ -30,8 +30,8 @@ class App extends React.Component {
               aria-current="page"
               class="header__content__logo-link w-nav-brand w--current"
             ><img
-                src="https://assets.website-files.com/604b1712d16406970c150253/604b1712d164066b66150295_dover-logo-script-aqua.svg"
-                width="130"
+                src="http://www.clipartbest.com/cliparts/eiM/yxb/eiMyxbG6T.png"
+                width="60"
                 alt=""
                 class="logo__default"
               /></a>
@@ -828,8 +828,8 @@ class App extends React.Component {
             <div class="footer__content__wrap">
               <div class="footer__content__navigation w-container">
                 <img
-                  src="https://assets.website-files.com/604b1712d16406970c150253/604b1712d1640699ce1502e0_dover-logo-script-white.svg"
-                  width="140"
+                  src="http://www.clipartbest.com/cliparts/eiM/yxb/eiMyxbG6T.png"
+                  width="90"
                   alt=""
                   class="footer__content__logo"
                 /><a href="/team" target="_blank" class="footer__link">About</a
@@ -851,7 +851,7 @@ class App extends React.Component {
                 ><a
                   href="mailto:hello@dover.io"
                   class="footer__link footer__link--email"
-                >hello@dover.com</a
+                >raj369verma@gmail.com</a
                 >
               </div>
             </div>
